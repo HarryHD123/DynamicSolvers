@@ -1,0 +1,6 @@
+This file shows the output of the Capital Budgeting Solver.
+
+The maximum return for 14 units of capital is 21.
+
+The decision routes are: [[3, 2, 1], [3, 1, 2]].
+

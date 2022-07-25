@@ -1,0 +1,22 @@
+This file shows the inner workings of the Network Cheapest Path Solver.
+
+The optimal decisions and associated values for a given stage and state are given in the table below: 
+
+x 	d0 S0 	d1 S1 	d2 S2 	d3 S3 	
+x1 	 	 	 	U  3 	
+x2 	 	 	D  4 	D  1 	
+x3 	 	U  6 	D  4 	U  2 	
+x4 	U/D 8 	U  7 	U  6 	U  3 	
+STAGE 	0 	1 	2 	3 	
+
+Multiple cheapest routes detected. 
+
+The cheapest routes are: 
+
+U U D D 
+
+D U D U 
+
+
+The cheapest route cost: 
+8

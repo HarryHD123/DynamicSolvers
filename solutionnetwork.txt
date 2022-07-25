@@ -1,0 +1,10 @@
+This file shows the output of the Network Cheapest Path Solver.
+
+The cheapest routes are: 
+
+U U D D 
+
+D U D U 
+
+The cheapest route cost: 
+8
